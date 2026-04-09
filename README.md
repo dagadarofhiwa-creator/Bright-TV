@@ -13,19 +13,17 @@ This repository contains the presentation slides for a comprehensive Viewership 
 
 ## 📝Aim
 
-The analysis aims to identify key sales trends, customer behavior patterns, and product performance drivers to inform strategic decisions for accelerating revenue growth and optimizing operational efficiency.
+The analysis aims to identify TV  Vieweship Growth By category of Gender,Race,province and Age Groups
 
 
 ## 🔍📈Key Insights
 
-* **🗓️Robust Growth:** Overall sales show a strong upward trend from 12% in Jan to 24% in June.
-* **🕒Morning Dominance:** The morning period (06:00-11:59) is the strongest performing segment, generating 55.6% of total revenue and attracting 54.8% of customer volume.
-* **📈Product Leadership:** Coffee and Tea are the top-selling products, collectively contributing 66.6% of total revenue.
-  * Coffee alone accounts for 38.6% of revenue.
-  * Tea accounts for 28.1% of revenue.
-* **📉Underperforming Products:** Loose tea, flavors, and packaged chocolate are the lowest-performing products, contributing only a combined 3.4% of monthly revenue.
-* **📍Store Performance:** Hell's Kitchen leads in total revenue (33.8%), closely followed by Astoria (33.2%).
-* **💰Budget Segment Dominance:** The budget price range (R00.00-R10.00) attracts 98.2% of customer volume and contributes 92% of total revenue.
+* **🗓️Robust Growth:** Overall Customers Viewership  strong upward trend from 22.2% in Jan to 48.23% in March.
+* **🕒Afternoon Dominance:** The afternoon period (12:00-16:59) is the strongest performing segment, generating 31.61% of Viewership followed By morning dominance By 30.86%
+* **📈Race  Leading :** Black race are the most viewers of Bright_TV followed By indians and Coloureds
+  * Black race alone accounts for 43%% Viewership
+  * indians and Coloureds account 16% each
+
 
 ## 🎯💡Strategic Recommendations
 
