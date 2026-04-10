@@ -1,6 +1,5 @@
 # Bright-TV VIEWERSHIP REVIEW
 
-CASE STUDY: BrightTV (Viewership Analytics)
 
 BrightTV ‘s CEO has an objective to grow the company’s subscription base for this financial year. He has approached you to provide insights that would assist CVM (Customer Value
 Management) team in meeting this year’s objective.
@@ -23,18 +22,6 @@ The analysis aims to identify TV  Vieweship Growth By category of Gender,Race,pr
 * **📈Race  Leading :** Black race are the most viewers of Bright_TV followed By indians and Coloureds
   * Black race alone accounts for 43%% Viewership
   * indians and Coloureds account 16% each
-
-
-## 🎯💡Strategic Recommendations
-
-The presentation proposes a dual-focus strategy: aggressive amplification of high-performing assets coupled with targeted optimization of underutilized potential. Key recommendations include:
-
-* **Capitalizing on Core Strengths:** Maximizing morning revenue through targeted campaigns and elevating core coffee/tea offerings.
-* **Strategic Bundling:** Implementing combos to increase average transaction value, pairing high-demand items with slower-moving products.
-* **Optimizing Underperforming Products:** Systematically addressing low-revenue items through targeted promotions or potential phasing out if no improvement.
-* **Enhancing Customer Experience:** Introducing a mobile ordering app and investing in ongoing staff training for upselling and product knowledge.
-* **Data-Driven Decisions:** Continuously tracking promotion redemption, bundle performance, and leveraging customer feedback and purchase patterns to refine future strategies.
-
 
 
 
